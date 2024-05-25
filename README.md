@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pooja-del
-- 👀 I’m interested in ... being a java developer
+- 👀 I’m interested in ... for a Data Analyst role
 - 🌱 I’m currently learning ...java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ppoojjaa05@gmail.com
